@@ -3,14 +3,14 @@
  What are Intelligent Tutoring Systems (ITS)?
  
 Intelligent tutoring systems (ITSs) are Artificial Intelligent (AI) tools used in education to provide communication, problem-solving skills, and personalized and adaptive learning experiences for students.
-*Background*
+## *Background*
 
 It is a computerized tutoring system or program that provides student-specific instructions based on their personal learning needs and progress.  It is a field of computer science and engineering that aims to create intelligent machines that mimic the role of a human tutor, providing feedback, guidance, and support to help improve students’ success. The radix of ITSs can be trailed back from the 1960s through the ‘70s with some of its earliest inventions being “Seymour Papert’s Logo”, with further development of the “ACT” systems.
 and intelligent Computer-Assisted Leaning (ICAI) in the 1970s and ’80s, which help diagnose student errors, provide progress feedback as well as teach math.
 ITSs have substantially evolved from primitive computer-assisted instruction to modern-day ITSs characterized by significant advances in their user interfaces, e-learning systems, and learner adaptive systems[2]. Some research studies claim that the integration of ITSs has the potential to revolutionize education (teaching and learning) by providing students with customized, engaging, and effective experiences [3]. Coupled with it cost-effectiveness and flexibility. “Most schools are beginning to shift from conventional methods of teaching to smart education to enhance students’ learning experiences” [4].
 However, ITS systems continue to attract interest for their growth, research, benefits, and applications”[5], as AI is gradually becoming an important tool for solving difficult problems with the development of computers[6] [7].
 
-*Significance*
+## *Significance*
 
 The significance of this intelligent tutoring system lies in its capacity to improve students’ learning outcomes and quality of education. Technologies such as auto test generation, learners assessment, and auto-grading among others, help minimize instructors’ workload to a great extent. [9] They have the potential to transform teaching and learning practices by providing real-time feedback and facilitating decision-making using artificial intelligence and machine learning algorithms [10]. Despite its phenomenal rate of significance, Literature reviews from other studies reveal doubts, questions, and concerns surrounding the possibilities of ITSs, which proposes the need for further research into the perception and potential of ITSs in education.  However, to further demonstrate the diverse application of ITSs, this research proposal aims to investigate and provide insight into the perception and potentials of ITSs in computer science, by exploring the experiences of senior students in computer science faculty at Eastern Connecticut State University to help propose guidelines for their ethical use.
 
@@ -19,7 +19,7 @@ The significance of this intelligent tutoring system lies in its capacity to imp
 
 
 
-Bibliography:
+## Bibliography:
 
 [1]	B. Li and M. Peng, “Integration of an AI-Based Platform and Flipped Classroom Instructional Model,” Sci. Program., vol. 2022, p. e2536382, Mar. 2022, doi: 10.1155/2022/2536382.
 
