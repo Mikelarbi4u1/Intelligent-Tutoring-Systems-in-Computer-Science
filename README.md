@@ -1,6 +1,7 @@
 # Intelligent Tutoring Systems in Computer Science
 
  What are Intelligent Tutoring Systems (ITS)?
+ 
 Intelligent tutoring systems (ITSs) are Artificial Intelligent (AI) tools used in education to provide communication, problem-solving skills, and personalized and adaptive learning experiences for students.
 Background
 It is a computerized tutoring system or program that provides student-specific instructions based on their personal learning needs and progress.  It is a field of computer science and engineering that aims to create intelligent machines that mimic the role of a human tutor, providing feedback, guidance, and support to help improve students’ success. The radix of ITSs can be trailed back from the 1960s through the ‘70s with some of its earliest inventions being “Seymour Papert’s Logo”, with further development of the “ACT” systems.
