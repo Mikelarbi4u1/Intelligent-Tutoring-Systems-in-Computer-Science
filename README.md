@@ -22,7 +22,9 @@ The significance of this intelligent tutoring system lies in its capacity to imp
 Bibliography:
 
 [1]	B. Li and M. Peng, “Integration of an AI-Based Platform and Flipped Classroom Instructional Model,” Sci. Program., vol. 2022, p. e2536382, Mar. 2022, doi: 10.1155/2022/2536382.
+
 [2]	D. N. J. Ahuja and R. Sille, “A Critical Review of Development of Intelligent Tutoring Systems: Retrospect, Present and Prospect,” vol. 10, no. 4, 2013.
+
 [3]	M. J. Reiss, “The Use of Al in Education: Practicalities and Ethical Considerations,” Lond. Rev. Educ., vol. 19, no. 1, 2021, Accessed: Mar. 18, 2023. [Online]. Available: https://eric.ed.gov/?id=EJ1297682
 [4]	A. Jaiswal and C. J. Arun, “Potential of Artificial Intelligence for transformation of the education system in India”.
 [5]	X. Huang, D. Zou, G. Cheng, X. Chen, and H. Xie, “Trends, Research Issues and Applications of Artificial Intelligence in Language Education,” Educ. Technol. Soc., vol. 26, no. 1, pp. 112–131, 2023.
