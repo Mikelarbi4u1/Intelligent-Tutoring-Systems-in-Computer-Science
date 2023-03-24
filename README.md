@@ -43,4 +43,3 @@ Bibliography:
 
 [11]	C. Perrotta and N. Selwyn, “Deep learning goes to school: toward a relational understanding of AI in education,” Learn. Media Technol., vol. 45, no. 3, pp. 251–269, Jul. 2020, doi: 10.1080/17439884.2020.1686017.
 
-
